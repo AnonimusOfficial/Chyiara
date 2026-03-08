@@ -1,0 +1,21 @@
+# Ignorar pastas de cache e arquivos temporários
+__pycache__/
+*.pyc
+
+# Ignorar ambientes virtuais
+venv/
+.venv/
+
+# Ignorar arquivos de configuração de IDEs (opcional, mas boa prática)
+.vscode/
+.idea/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de dados sensíveis ou temporários
+.env
+*.sqlite3
+
+# Ignorar downloads de pacotes (se houver)
+*.whl
