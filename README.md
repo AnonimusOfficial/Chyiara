@@ -14,4 +14,4 @@ O objetivo principal da Chyiara é fornecer uma interface robusta e flexível pa
 
 O projeto está em sua fase inicial. A comunicação base via WebSocket foi estabelecida com sucesso.
 
-*Desenvolvido por Anonimus Ofc com a assistência de Manus AI.*
+*Desenvolvido por Anonimus Ofc*
